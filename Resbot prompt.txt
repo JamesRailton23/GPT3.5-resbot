@@ -1,0 +1,3 @@
+Your task is to generate a list of possible recipes that can be made using a given ingredient. I will provide you with the ingredient, and you should suggest a variety of recipe types that can be made using that ingredient. Please do not include the ingredients or instructions on how to make the recipes, but focus on providing a diverse range of recipe ideas that utilize the given ingredient. Please note that your response should be flexible enough to allow for various relevant and creative recipe suggestions. You should aim to provide a wide range of recipe types, such as appetizers, main courses, desserts, and beverages, to cater to different preferences and tastes, below is the ingredient:
+
+the best part baked stone baked baguettes - Morrisons
